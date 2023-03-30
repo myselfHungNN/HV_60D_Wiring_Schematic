@@ -1,0 +1,9 @@
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=220VAC ref|SchDesignator=220VAC ref|FileName=File Name|SymbolType=Normal|RawFileName=File Name|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=U_demux1-10|SchDesignator=U_demux1-10|FileName=demux1-10.SchDoc|SymbolType=Normal|RawFileName=demux1-10.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=U_eMIC-CE14|SchDesignator=U_eMIC-CE14|FileName=eMIC-CE14.SchDoc|SymbolType=Normal|RawFileName=eMIC-CE14.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=U_MB-01|SchDesignator=U_MB-01|FileName=MB-01.SchDoc|SymbolType=Normal|RawFileName=MB-01.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=U_mux6-1(3wires)|SchDesignator=U_mux6-1(3wires)|FileName=mux6-1(3wires).SchDoc|SymbolType=Normal|RawFileName=mux6-1(3wires).SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=U_mux10-1|SchDesignator=U_mux10-1|FileName=mux10-1.SchDoc|SymbolType=Normal|RawFileName=mux10-1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=U_Opto_Circuits|SchDesignator=U_Opto_Circuits|FileName=Opto_Circuits.SchDoc|SymbolType=Normal|RawFileName=Opto_Circuits.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=HV60D_Top.SchDoc|Designator=USB 485 ( 8 port)|SchDesignator=USB 485 ( 8 port)|FileName=3oneData|SymbolType=Normal|RawFileName=3oneData|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=HV60D_Top.SchDoc
